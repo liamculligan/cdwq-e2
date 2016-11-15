@@ -35,3 +35,5 @@ Following this, a distribution system version of the model was developed, buildi
 `Alternative-7.mat` <br>
 `Alternative-8.mat` <br>
 
+## Requirements
+* MATLAB 7+
