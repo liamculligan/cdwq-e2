@@ -26,14 +26,14 @@ Following this, a distribution system version of the model was developed, buildi
 `Alternative-8-Inputs.xlsx` <br>
 * The outputs of the various simulations described in the report are provided: <br>
 `Baseline-Outputs.mat` <br>
-`Alternative-1.mat` <br>
-`Alternative-2.mat` <br>
-`Alternative-3.mat` <br>
-`Alternative-4.mat` <br>
-`Alternative-5.mat` <br>
-`Alternative-6.mat` <br>
-`Alternative-7.mat` <br>
-`Alternative-8.mat` <br>
+`Alternative-1-Outputs.mat` <br>
+`Alternative-2-Outputs.mat` <br>
+`Alternative-3-Outputs.mat` <br>
+`Alternative-4-Outputs.mat` <br>
+`Alternative-5-Outputs.mat` <br>
+`Alternative-6-Outputs.mat` <br>
+`Alternative-7-Outputs.mat` <br>
+`Alternative-8-Outputs.mat` <br>
 
 ## Requirements
 * MATLAB 7+
