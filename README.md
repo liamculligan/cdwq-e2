@@ -2,7 +2,7 @@
 Master's Thesis: Development of the Expanded Comprehensive Disinfection and Water Quality Model
 
 ## Introduction
-This repository contains my research report submitted to the Faculty of Engineering and the Built Environment at the University of the Witwatersrand, for the degree of Master of Science in Engineering. The MATLAB source code and all input and output files are also provided. <br> <br> The aim of the project was to develop a mathematical model to help researchers and engineers better understand the complex set of biological, chemical and hydraulic factors that affect drinking water quality, after treatment. <br> <br>
+This repository contains my research report submitted to the Faculty of Engineering and the Built Environment at the University of the Witwatersrand, for the degree of Master of Science in Engineering. The MATLAB source code and all input and output files are also provided. <br> <br> The aim of the project was to develop a mathematical model to help researchers and engineers better understand the complex set of biological, chemical and hydraulic factors that affect drinking water quality after treatment. <br> <br>
 A batch version of the model was first developed, which does not account for hydraulic processes, in order to demonstrate the impact of biological and chemical processes on water quality. <br>
 Following this, a distribution system version of the model was developed, building on the previous model, which accounts for hydraulic processes. <br>
 
